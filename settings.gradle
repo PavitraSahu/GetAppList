@@ -1,0 +1,3 @@
+rootProject.name = "JioTes"
+include ':app'
+include ':AppInfoSDK'
